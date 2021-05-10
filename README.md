@@ -5,8 +5,8 @@ This reposotory is a Python script meant for emulating a racing wheel for use in
 
 This script requires:
 
-vJoy (Virtual Joystick) https://github.com/shauleiz/vJoy/releases
-FreePIE (Programmable Input Emulator) https://andersmalmgren.github.io/FreePIE/
+* vJoy (Virtual Joystick) https://github.com/shauleiz/vJoy/releases
+* FreePIE (Programmable Input Emulator) https://andersmalmgren.github.io/FreePIE/
 
 # Instructions for installation:
 1. Install vJoy and FreePIE
