@@ -1,7 +1,7 @@
 # Drift-Script
 FreePIE + vJoy python wheel emulation script
 
-This reposotory is a Python script meant for emulating a racing wheel for use in drifting/racing games such as: Assetto Corsa, Live for Speed.
+This reposotory is a Python script meant for emulating a racing wheel with a mouse and keyboard for use in drifting/racing games such as: Assetto Corsa, Live for Speed.
 
 This script requires:
 
