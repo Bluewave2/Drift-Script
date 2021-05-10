@@ -35,7 +35,3 @@ This script requires:
  >           Mouse 3 = Lock mouse to bottom of screen (toggle)
             
 3. Assign buttons and axis' **in game** and adjust settings as needed (everything should be self descriptive)
-
-
-
-Licence: GNU GPLv3
